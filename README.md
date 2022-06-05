@@ -1,5 +1,9 @@
 # <a href = 'https://docs.google.com/presentation/d/1icdFPX73SFo--lDWT9SDbqE7cRhtN4meuuMX0mjYVng/edit?usp=sharing'> Earth Saviour <a/>
 
+# Try it out :
+GitHub Repo
+<br/><a href='https://www.figma.com/proto/PNKmWhfOOrR33njhCYsTWp/Waste2Lose?node-id=315%3A1568&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=362%3A330'> Live Prototipe </a>
+  <br/>Live demo : https://babivillanova.github.io/EarthSaviours/
   
 # Inspiration :
 
@@ -37,21 +41,23 @@ Hybrid offchain-onchain contract with smart contract automation and Subgraph eff
 
 We would like to add more chains integration and a world viewer to compare buildings performance and have leadership dashboard with social chat feature to bring together like minded people who cares about sustainability. AR feature to visualize building energy consumption would be cool.
 
-# Built With
-api
-chainlink
-coinbase
-figment
-material
-multichain
-near
-node.js
-polygon
-react
-solidity
-ui
+# Bounty Integration
+  
+* Subgraph Hosted Service : thegraph.com/hosted-service/mistrymm7/testpolygon
 
-# Try it out :
-GitHub Repo
-<br/><a href='https://www.figma.com/proto/PNKmWhfOOrR33njhCYsTWp/Waste2Lose?node-id=315%3A1568&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=362%3A330'> Live Prototipe </a>
-  <br/>Live demo : https://babivillanova.github.io/EarthSaviours/
+* IPFS Assets Storage (Web3 Storage) : bafybeiet6mxp7udpq6c45fgsoo564vuygv7btvvg2vcq6vun5nzbygqhly
+
+* Lifestyle (Polygon Mumbai) : 0xa0ef2542874EccbD49FB47284CA98181A740a657 (Verified)
+
+* EPNS (Channel Image) 
+![image](https://user-images.githubusercontent.com/7644450/172055737-db5e3646-e183-4521-b77e-7d3294c3680c.png)
+![image](https://user-images.githubusercontent.com/7644450/172055884-e87f71d6-7dd4-4f08-9559-cbd2ca585f75.png)
+
+* Figment : Graph-Hack-MM, Email : mayurmmistry7@gmail.com
+
+* Coinbase Wallet
+
+* Soulbounds Labs
+
+
+
