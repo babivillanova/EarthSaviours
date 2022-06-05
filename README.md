@@ -1,3 +1,5 @@
+# <a href = 'https://docs.google.com/presentation/d/1icdFPX73SFo--lDWT9SDbqE7cRhtN4meuuMX0mjYVng/edit?usp=sharing'> Earth Saviour <a/>
+
 # Inspiration :
 
 We deeply care about sustainability, climate change and carbon footprint. Currently, building owners charges fixed utility fee to their renters which disincentives them to adopt energy efficient living standards. Its unfair to have same utility fee for all renters as few of them might consume energy recklessly and few of them might be very conscious about sustainability lifestyle. Buildings contribute to roughly 40% of total energy consumption and green house emissions. If we adopt energy efficient lifestyle in our day to day behavior, it can lead to tremendous impact in climate change and sustainability globally.
