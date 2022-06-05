@@ -1,5 +1,13 @@
 .footer {
-  transform: scale(0.7);
-  justify-content: left;
-  margin-left: -217px;
+  transform: scale(1);
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+  margin-left: 150px;
+}
+
+.build {
+  align-items: center;
+  margin-top: 200px;
+  justify-content: center;
 }

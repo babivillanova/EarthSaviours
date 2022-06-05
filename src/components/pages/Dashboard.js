@@ -11,8 +11,7 @@ export default function Dashboard() {
       <>
         <Dash/>
         <Building/>
-   
-        <Footer/>
+           <Footer/>
   
       </>
     );

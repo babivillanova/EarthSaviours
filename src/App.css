@@ -2,8 +2,8 @@ html {
   position: relative;
   min-width: none;
 
-  height: 100px;
-
   background: #16171b;
   background-image: url(Home.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
