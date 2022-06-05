@@ -49,7 +49,7 @@ We would like to add more chains integration and a world viewer to compare build
 
 * Lifestyle (Polygon Mumbai) : 0xa0ef2542874EccbD49FB47284CA98181A740a657 (Verified)
 
-* EPNS (Channel Image) 
+* EPNS (Channel) 
 ![image](https://user-images.githubusercontent.com/7644450/172055737-db5e3646-e183-4521-b77e-7d3294c3680c.png)
 ![image](https://user-images.githubusercontent.com/7644450/172055884-e87f71d6-7dd4-4f08-9559-cbd2ca585f75.png)
 
