@@ -47,7 +47,7 @@ We would like to add more chains integration and a world viewer to compare build
 
 * IPFS Assets Storage (Web3 Storage) : bafybeiet6mxp7udpq6c45fgsoo564vuygv7btvvg2vcq6vun5nzbygqhly
 
-* Lifestyle (Polygon Mumbai) : 0xa0ef2542874EccbD49FB47284CA98181A740a657 (Verified)
+* Smart Contracts (Polygon Mumbai) : 0xa0ef2542874EccbD49FB47284CA98181A740a657 (Verified)
 
 * EPNS (Channel) 
 ![image](https://user-images.githubusercontent.com/7644450/172055737-db5e3646-e183-4521-b77e-7d3294c3680c.png)
