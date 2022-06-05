@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One");
+@import url("https://fonts.googleapis.com/css2?family=Monteserrat");
+@import url("https://fonts.googleapis.com/css?family=Cousine");
+
+:root {
+  --primary: #ffffff;
+}
+
+.btn {
+  width: 400px;
+  height: 100px;
+  background: #4a6d8e;
+  mix-blend-mode: lighten;
+  border-radius: 10px;
+  border-color: transparent;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 76px;
+  align-items: center;
+  text-align: center;
+  color: #e06161;
+  margin-top: 30px;
+  margin-left: 65px;
+}
+
+.btn--primary {
+}
+
+/* .btn--outline {
+  padding: 8px 20px;
+  /* border: 1px solid var(--primary);
+  transition: all 0.3s ease-out;
+} */
+
+/* .btn--medium {
+  padding: 8px 20px;
+  font-size: 18px;
+}
+
+.btn--large {
+  padding: 12px 26px;
+  font-size: 30px;
+} */
+
+.btn--large:hover,
+.btn:hover,
+.button:hover {
+  transition: all 0.3s ease-out;
+  background: rgb(141, 18, 18);
+  color: #242424;
+  transition: 250ms;
+}
