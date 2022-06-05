@@ -48,6 +48,6 @@ react
 solidity
 ui
 
-# Try it out
-<br/> GitHub Repo
+# Try it out :
+GitHub Repo
 <br/><a href='https://www.figma.com/proto/PNKmWhfOOrR33njhCYsTWp/Waste2Lose?node-id=315%3A1568&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=362%3A330'> Live Prototipe </a>
