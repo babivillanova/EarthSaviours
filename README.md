@@ -2,8 +2,9 @@
 
 # Try it out :
 
-<br/><a href='https://www.figma.com/proto/PNKmWhfOOrR33njhCYsTWp/Waste2Lose?node-id=315%3A1568&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=362%3A330'> Live Prototype </a>
-<br/>Live demo : https://babivillanova.github.io/EarthSaviours/
+<br/>Live site <a href='https://www.figma.com/proto/PNKmWhfOOrR33njhCYsTWp/Waste2Lose?node-id=315%3A1568&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=362%3A330'> Live Prototype </a>
+<br/>Demo : https://babivillanova.github.io/EarthSaviours/
+<br/>Presentation : https://docs.google.com/presentation/d/1icdFPX73SFo--lDWT9SDbqE7cRhtN4meuuMX0mjYVng/edit?usp=sharing
   
 # Inspiration :
 
