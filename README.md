@@ -17,6 +17,9 @@ We have developed Waste2Lose model which incentives renters to reduce energy con
 # How we built it :
 
 We have developed Lifestyle.sol smart contract which uses Chainlink Any Api to query daily energy consumption data offchain and Chainlink Keepers to automate Saviours tokens daily based on their usage [Great < 10 kWh (100 tokens), Good 10-20 kWh (50 tokens), Bad > 20 kWh (10 tokens) ]. The smart contracts is deployed on Polygon and Near. We have Data Visualization dashboard along EPNS channel integration to monitor daily performance and get notified. We have developed subgraph hosted service on Graph to efficient store daily performance data and plan to develop Sustainability Credibility DID on chain using soulbound and subgraph. Our Dapp uses Figment RPC, Chainlink Wallet for onchain integration and stored assets in decentralized database using IPFS Web3 Storage
+  
+  ![stack](https://user-images.githubusercontent.com/77370233/172061479-bc4d18cb-eb36-4fa1-b8d4-46b82488ff5b.PNG)
+
 
 # Challenges we ran into :
 
