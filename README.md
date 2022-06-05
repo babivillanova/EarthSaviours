@@ -1,12 +1,18 @@
 # <a href = 'https://docs.google.com/presentation/d/1icdFPX73SFo--lDWT9SDbqE7cRhtN4meuuMX0mjYVng/edit?usp=sharing'> Earth Saviour <a/>
 
+  
 # Inspiration :
 
 We deeply care about sustainability, climate change and carbon footprint. Currently, building owners charges fixed utility fee to their renters which disincentives them to adopt energy efficient living standards. Its unfair to have same utility fee for all renters as few of them might consume energy recklessly and few of them might be very conscious about sustainability lifestyle. Buildings contribute to roughly 40% of total energy consumption and green house emissions. If we adopt energy efficient lifestyle in our day to day behavior, it can lead to tremendous impact in climate change and sustainability globally.
 
+![Dashboard](https://user-images.githubusercontent.com/77370233/172060784-eee87705-c455-42e8-b9b7-9aecc86400cf.PNG)
+
+  
 # What it does :
 
 We have developed Waste2Lose model which incentives renters to reduce energy consumption and award tokens for their sustainable lifestyle by integrating their electricity consumption data and reward them Saviours tokens based on their usage leading to ecofriendly lifestyle with financial benefits. Its win-win situation for both building owners who will save energy bills and renters for being awarded and charged fairly.
+
+![Wallet](https://user-images.githubusercontent.com/77370233/172060776-01d62218-cc50-47e0-bf81-8b24215492e2.gif)
 
 # How we built it :
 
